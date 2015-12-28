@@ -1,17 +1,23 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
 description: "Let us know how it's going! We want to hear your\_feedback! (It is Beta, after all.)\_So if you find a bug, something isn’t working as you’d expect, or you have a"
+datePublished: '2015-12-28T15:25:40.382Z'
+dateModified: '2015-12-28T15:25:34.096Z'
 author: []
-datePublished: '2015-12-28T14:55:34.973Z'
-publisher:
-  domain: help.thegrid.io
-  name: help.thegrid.io
-dateModified: '2015-12-28T14:54:19.255Z'
-title: ''
+title: "Here's how"
 sourcePath: _posts/2015-12-28-let-us-know-how-its-going-we-want-to-hear-your-feedback.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
+authors: []
+publisher:
+  name: help.thegrid.io
+  domain: help.thegrid.io
+  url: null
+  favicon: null
 url: let-us-know-how-its-going-we-want-to-hear-your-feedback/index.html
 _context: 'http://schema.org'
 _type: Article
