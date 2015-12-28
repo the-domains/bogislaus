@@ -1,0 +1,28 @@
+name: bogislaus
+favicon: null
+layout_spectrum: 0.4638851631898433
+typography_spectrum: 0.5973784560337663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.804348333273083
+  lightness: 0.8082911979872733
+  saturation: 0.0813797467853874
+  rhythmicContrast: 0.19299100432544947
+purpose: []
